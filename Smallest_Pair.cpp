@@ -1,5 +1,3 @@
-/*Smallest Pair*/
-
 #include <iostream>
 #include <climits>
  
